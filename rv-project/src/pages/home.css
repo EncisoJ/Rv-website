@@ -1,0 +1,76 @@
+html,
+body {
+  font-family: "Epilogue", sans-serif;
+  background-color: #fff;
+  color: #fff;
+}
+
+.rv-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #a9a9a9;
+  margin-bottom: 5;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.rv-title {
+  font-size: rem;
+  justify-content: right;
+  position: relative;
+  margin: auto;
+  color: black;
+  left: 200px;
+  font-size: 2.5rem;
+}
+
+.logo {
+  position: absolute;
+}
+
+.rv-links ul {
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.rv-links li {
+  list-style: none;
+  font-size: 2rem;
+}
+
+.rv-links li a {
+  text-decoration: none;
+  color: black;
+  padding: 1rem;
+  display: block;
+}
+
+ul {
+  justify-content: center;
+}
+
+.rv-links {
+  margin: 0.8rem;
+  position: relative;
+  right: 80px;
+}
+
+.home-h2 {
+  font-size: large;
+  text-align: center;
+}
+
+.img-container1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 4rem;
+}
+
+.first-image-text {
+  text-align: center;
+}/*# sourceMappingURL=home.css.map */
